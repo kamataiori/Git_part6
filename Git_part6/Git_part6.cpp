@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello Visual Stdio!\n";
+
+    std::cout << "Pull Repuest!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
